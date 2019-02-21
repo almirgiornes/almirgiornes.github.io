@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another sample
+title: About me and this website
 categories:
 - blog
 ---
