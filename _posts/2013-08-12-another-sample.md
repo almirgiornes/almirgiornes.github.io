@@ -5,17 +5,15 @@ categories:
 - blog
 ---
 
-Lorem Ipsum
+A little description of my life
 
 ---
 
-# It's all in the game.
+# Let's start from the beginning...
 
-## You come at the king, you best not miss.
-
-### Be subtle with it, man. You know what subtle means?
-
-Lore ipsum text.
+Hi, my name is Almir, and i live in Brazil, at Cruzeiro, São Paulo.
+I was born in 1998, so i got the Internet at the beginning when i was
+more younger.
 
 > This is a quote from someone famous about productivity
 
