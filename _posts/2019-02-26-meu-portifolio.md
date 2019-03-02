@@ -1,33 +1,118 @@
 ---
 layout: post
-title: Sample post
+title: Meu portifolio
 categories:
 - blog
 ---
 
-Lore ipsum text.
+#Olá, me chamo Almir Giornes
+
 
 ---
 
-# It's all in the game.
+Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-## You come at the king, you best not miss.
+Data Scientist iniciante, com experiências em ferramentas de programação como Linguagem Python e R, em conjunto com bibliotecas e frameworks para análise de dados.
+####
+---
+#### Experiências
 
-### Be subtle with it, man. You know what subtle means?
+##### - Business Intelligence Analyst
+###### [Objective](https://www.object1ve.com/)
+###### agosto de 2018 - o momento
+###### Cruzeiro, São Paulo
+#
 
-Lore ipsum text.
+##### - Bolsista de Iniciação Científica do CNPq - PIBIC / IC
+###### [CPTEC / INPE](http://www.inpe.br/)
+###### agosto de 2017 - julho de 2018
+###### Cachoeira Paulista, São Paulo
 
-> This is a quote from someone famous about productivity
+---
 
+#### Formação Acadêmica
 
-Syntax highlighting with Solarized theme.
+##### - Fatec Cruzeiro - Prof. Waldomiro May
+###### Curso superior, Análise e Desenvolvimento de Sistemas
+###### 2016 - 2018
+#
 
-{% highlight ruby %}
-class User < ActiveRecord::Base
-  attr_accessible :email, :name
+##### - SENAI
+###### Curso Técnico, Eletromecânica
+###### 2014 - 2015
 
-  ... tons of other crap ...
+---
 
-end
+#### Certificados 
+##### - Dig into programmatic
+###### Google
+###### Novembro de 2018
+###
+##### - Maratona de Programação XP
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Outubro de 2018
+###
+##### - TDD e a importância de testes no desenvolvimento
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Outubro de 2018
+###
+##### - Mathematical Optimization for Business Problems
+###### IBM
+###### Agosto de 2018
+###
+##### - Python for Data Science
+###### IBM
+###### Agosto de 2018
+###
+##### - Inteligência Emocional
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Fevereiro de 2018
+###
+##### - Linguagem de Programação Python
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Fevereiro de 2018
+###
+##### - Desenvolvimento Ágil com ScriptCase e MySQL
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Outubro de 2017
+###
+##### - Criação e Design de Games
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Maio de 2017
+###
+##### - Android - Zero to Hero!
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Outubro de 2016
+###
+##### - Arduino e noções para integração com Android
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Julho de 2016
+###
+##### - Introdução à linguagem Python
+###### Fatec Cruzeiro - Prof Waldomiro May
+###### Julho de 2016
+###
+##### - Competência Transversal em Empreendedorismo
+###### SENAI
+###### Setembro de 2015
+###
+##### - Competência Transversal em Finanças Pessoais
+###### SENAI
+###### Outubro de 2015
 
-{% endhighlight %}
+---
+#### Idiomas
+- Espanhol - Nível intermediário
+Inglês - Nível básico a intermediário
+Português - Fluente ou nativo
+
+---
+
+#### Eventos e publicações
+
+- [SICINPE-2018](http://www.inpe.br/bolsas/arquivos/PROGRAMA_SICINPE_2018.pdf)
+  * Seminário de Iniciação Científica e Iniciação em Desenvolvimento Tecnológico e Inovação
+- [EIC-2018](https://www.fateccruzeiro.edu.br/eic/)
+  * Encontro de Iniciação Científica - Fatec Cruzeiro
+
+---

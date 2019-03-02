@@ -1,4 +1,4 @@
-# Theme customization - please change from the defaults!
+# Theme customization
 
 # Color for top bar, links, etc
 highlight_color: '#3498db'
@@ -7,7 +7,7 @@ highlight_color: '#3498db'
 social:
   github: almirgiornes
   #bitbucket: 
-  #hacker_news: swanson
+  #hacker_news:
   #stackexchange: 
   #stackoverflow: 
   #twitter: 
@@ -18,16 +18,16 @@ social:
   #gravatar: 
   #flickr: 
 
-# "Hi, I'm _______"
+# "Olá, Eu sou _______"
 name: Almir Giornes
 email: almirgiornes@gmail.com
 tagline: "Lorem ipsum"
 
-# Google Analytics key, leave blank to ignore
+# Google Analytics ID
 google_analytics_key: UA-135179205-1
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+show_atom_feed: false
