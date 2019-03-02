@@ -101,8 +101,8 @@ Data Scientist iniciante, com experiências em ferramentas de programação como
 ---
 #### Idiomas
 - Espanhol - Nível intermediário
-Inglês - Nível básico a intermediário
-Português - Fluente ou nativo
+- Inglês - Nível básico a intermediário
+- Português - Fluente ou nativo
 
 ---
 
