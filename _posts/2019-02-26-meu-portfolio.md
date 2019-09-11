@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meu portifolio
+title: Meu portfolio
 categories:
 - blog
 ---
